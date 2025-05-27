@@ -1,0 +1,12 @@
+[START] 2025-05-27 19:16:11 - Uruchomienie Aplikacji
+[INFO] 2025-05-27 19:16:20 - Załadowano Obraz (czas: 6183 ms)
+[INFO] 2025-05-27 19:16:30 - Progowanie wykonano (czas: 49 ms)
+[INFO] 2025-05-27 19:16:30 - Ukończono Progowanie (czas: 55 ms)
+[INFO] 2025-05-27 19:16:34 - Negatyw wykonano (czas: 27 ms)
+[INFO] 2025-05-27 19:16:34 - Ukończono Negatyw (czas: 29 ms)
+[INFO] 2025-05-27 19:16:38 - Konturowanie wykonano (czas: 48 ms)
+[INFO] 2025-05-27 19:16:38 - Ukończono Konturowanie (czas: 154 ms)
+[INFO] 2025-05-27 19:16:41 - Obrócono obraz w lewo (czas: 6 ms)
+[INFO] 2025-05-27 19:16:43 - Obrócono obraz w lewo (czas: 3 ms)
+[INFO] 2025-05-27 19:16:50 - Zapisano Zdjęcie
+[EXIT] 2025-05-27 19:16:51 - Zamknięcie aplikacji
